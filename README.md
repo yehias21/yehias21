@@ -1,4 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Yahia+Salaheldin+Shaaban;MSc+student+in+MBZUAI;Working+on+Reasoning+for+LLMs)](https://git.io/typing-svg)
+[<img src="https://raw.githubusercontent.com/yehias21/yehias21/master/graph.gif" alt="👋 Hi there! I'm Yahia Salaheldin Shaaban" title="👋 Hi there! I'm Yahia Salaheldin Shaaban"/>](https://github.com/yehias21)
 
 ## Overview
 
