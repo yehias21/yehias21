@@ -1,5 +1,4 @@
-# GitHub Stats
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Yahia+Salaheldin+Shaaban;MSc+student+in+MBZUAI;Working+on+Reasoning+for+LLMs)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Yahia+Salaheldin+Shaaban;MSc+student+in+MBZUAI;Working+on+Reasoning+for+LLMs)](https://git.io/typing-svg)
 
 ## Overview
 
