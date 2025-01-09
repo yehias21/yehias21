@@ -1,6 +1,5 @@
 # GitHub Stats
-
-Welcome to my GitHub profile stats page! Below, you'll find dynamically generated stats to highlight my GitHub activity and contributions.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ## Overview
 
