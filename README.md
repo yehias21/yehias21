@@ -1,6 +1,5 @@
 x[<img src="https://raw.githubusercontent.com/yehias21/yehias21/master/graph.gif" alt="👋 Hi there! I'm Yahia Salaheldin Shaaban" title="👋 Hi there! I'm Yahia Salaheldin Shaaban"/>](https://github.com/yehias21)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=450&height=100&lines=I+am+Yahia+Salaheldin+Shaaban;Msc.+Student+in+MBZUAI;Working+on+AI4Science%2C+Reasoning4LLMs)](https://git.io/typing-svg)## 
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=I+am+Yahia+Salaheldin+Shaaban;Msc.+Student+in+MBZUAI;Working+on+AI4Science%2C+Reasoning4LLMs)](https://git.io/typing-svg)
 # About Me
 [![Yahia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehias21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
