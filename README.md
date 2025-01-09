@@ -15,6 +15,15 @@ Welcome to my GitHub profile stats page! Below, you'll find dynamically generate
 ### Federated Learning with Secure Aggregation
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=FedRs&theme=radical)](https://github.com/yehias21/FedRs)
 
+### Watermark Analysis
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=Watermark-Analysis&theme=radical)](https://github.com/yehias21/Watermark-Analysis)
+
+### HyperKKL
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=HyperKKL&theme=radical)](https://github.com/yehias21/HyperKKL)
+
+### Fedpara: Open Source Contribution to Flower Labs
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=Fedpara&theme=radical)](https://github.com/yehias21/Fedpara)
+
 ---
 
 > **Note:** Stats may not be 100% accurate as they depend on public repositories and contributions.
