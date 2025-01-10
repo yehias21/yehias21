@@ -7,13 +7,8 @@
 - 👯 I’m always open to collaborating with fellow researchers.
 - I love Boxing, kayaking, and BBQ parties.
 
-  
-## Github Stats
-[![Yahia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehias21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehias21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedheakl&count_private=true&theme=cobalt)&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedheakl&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repository Highlights
 
@@ -28,10 +23,3 @@
 
 ### Fedpara: Open Source Contribution to Flower Labs
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=flower&theme=radical)](https://github.com/yehias21/flower/tree/fedpara-updated/baselines)
-
-
-### 📬 Contact Me
-
-- 📧 Email: [yahia.shaaban@mbzuai.ac.ae](mailto:yahia.shaaban@mbzuai.ac.ae)
-- 🌐 LinkedIn: [linkedin.com/in/yehiasalah21](https://www.linkedin.com/in/yehiasalah21/)
-- 📱 Phone: +971502631423
