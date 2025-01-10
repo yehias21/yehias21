@@ -3,12 +3,10 @@
 ## About Me
 - 🌱 Currently learning **GFlowNets**, **Reasoning for LLMs**, and **RL for Combinatorics** at [MBZUAI](https://mbzuai.ac.ae/).  
 - 👨‍💼 Previously: **Fatima Fellowship**, **AIC-MICT**, and **Dell Research Intern**.  
-- 👯 Always open to collaborating with fellow researchers in **Machine Learning** and **AI**.  
+- 👯 Always open to collaborating with fellow researchers... Reach out and let's have coffee together.
 - 💪 Outside of work, I enjoy **Boxing**, **Kayaking**, and hosting **BBQ parties**.  
 
 ## GitHub Stats
-
-Welcome to my GitHub profile stats page! Below, you'll find dynamically generated stats to highlight my GitHub activity and contributions.
 
 &nbsp;![Yahia's GitHub stats](https://github-readme-stats.vercel.app/api?username=yehias21&count_private=true&theme=radical)&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yehias21&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,pure%20basic,purebasic,less,scss&layout=compact&hide_title=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
