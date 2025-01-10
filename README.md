@@ -3,9 +3,9 @@
 ## About Me
 - 👋 Hi, I’m [@yehias21](https://www.yehias21.github.io/)
 - 🌱 I’m currently learning GFlowNets, Reasoning4LLMs and RL4Combinatorics at [MBZUAI](https://mbzuai.ac.ae/).
-- 👨‍💼 Ex-Fatima Fellowship | Ex-AIC-MICT | Ex-Dell Reseach intern
-- 👯 I’m always open to collaborating with fellow researchers
-- I love Boxing, kayaking, doing BBQ parties
+- 👨‍💼 Ex-Fatima Fellowship | Ex-AIC-MICT | Ex-Dell Reseach intern.
+- 👯 I’m always open to collaborating with fellow researchers.
+- I love Boxing, kayaking, and BBQ parties.
 
   
 ## Github Stats
