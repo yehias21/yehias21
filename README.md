@@ -1,4 +1,4 @@
-x[<img src="https://raw.githubusercontent.com/yehias21/yehias21/master/graph.gif" alt="👋 Hi there! I'm Yahia Salaheldin Shaaban" title="👋 Hi there! I'm Yahia Salaheldin Shaaban"/>](https://github.com/yehias21)
+[<img src="https://raw.githubusercontent.com/yehias21/yehias21/master/graph.gif" alt="👋 Hi there! I'm Yahia Salaheldin Shaaban" title="👋 Hi there! I'm Yahia Salaheldin Shaaban"/>](https://github.com/yehias21)
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=I+am+Yahia+Salaheldin+Shaaban;Msc.+Student+in+MBZUAI;Working+on+AI4Science%2C+Reasoning4LLMs)](https://git.io/typing-svg)
 ## About Me
 - 👋 Hi, I’m [@yehias21](https://www.yehias21.github.io/)
