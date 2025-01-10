@@ -27,7 +27,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=HyperKKL&theme=radical)](https://github.com/yehias21/HyperKKL)
 
 ### Fedpara: Open Source Contribution to Flower Labs
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=Fedpara&theme=radical)]([FedPara](https://github.com/yehias21/flower/tree/fedpara/baselines)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yehias21&repo=HyperKKL&theme=radical)](https://github.com/yehias21/HyperKKL)
+
 
 ### 📬 Contact Me
 
