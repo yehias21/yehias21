@@ -1,7 +1,7 @@
 [<img src="https://raw.githubusercontent.com/yehias21/yehias21/master/graph.gif" alt="👋 Hi there! I'm Yahia Salaheldin Shaaban" title="👋 Hi there! I'm Yahia Salaheldin Shaaban"/>](https://github.com/yehias21)
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=I+am+Yahia+Salaheldin+Shaaban;Msc.+Student+in+MBZUAI;Working+on+AI4Science%2C+Reasoning4LLMs)](https://git.io/typing-svg)
 ## About Me
-- 🌱 Currently learning **GFlowNets**, **Reasoning for LLMs**, and **RL for Combinatorics** at [MBZUAI](https://mbzuai.ac.ae/).  
+- 🌱 Currently learning **Reasoning for LLMs**, and **RL for Combinatorics** at [MBZUAI](https://mbzuai.ac.ae/).  
 - 👨‍💼 Previously: **Fatima Fellowship**, **AIC-MICT**, and **Dell Research Intern**.  
 - 👯 Always open to collaborating with fellow researchers... Reach out and let's have coffee together.
 - 💪 Outside of work, I enjoy **Boxing**, **Kayaking**, and hosting **BBQ parties**.  
