@@ -16,6 +16,8 @@
 - 🧭 **Fatima Fellowship** predoctoral researcher with **Dr. M. Umar B. Niazi (MIT/KTH)** on learned observers for nonlinear control systems.
 - 🍖 Outside work: **boxing**, **kayaking**, and hosting **BBQ parties**.
 
+<sub>📖 A longer year by year walk through my research journey lives on my academic site: [**Research Background →**](https://github.com/yehias21/yehias21.github.io#-research-background)</sub>
+
 ## GitHub Stats
 
 <p align="center">
