@@ -12,7 +12,7 @@
 
 ## About Me
 - 🎓 MSc in Machine Learning at **[MBZUAI](https://mbzuai.ac.ae/)**, advised by **Dr. Salem Lahlou** and **Dr. Martin Takáč**.
-- 🛢️ Thesis research at **AIQ Intelligence (G42 / ADNOC)**, building **time series language models** that reason on long horizon industrial sensor data.
+- 🛢️ Thesis research at **AIQ (previously owned by G42 / ADNOC)**, building **time series language models** that reason on long horizon industrial sensor data.
 - 🧭 **Fatima Fellowship** predoctoral researcher with **Dr. M. Umar B. Niazi (MIT/KTH)** on learned observers for nonlinear control systems.
 - 🍖 Outside work: **boxing**, **kayaking**, and hosting **BBQ parties**.
 
