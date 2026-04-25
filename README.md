@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://finance.yahoo.com/quote/SPY">
-    <img src="https://finviz.com/chart.ashx?t=SPY&ty=c&ta=1&p=i60&s=l&v=202604251848" alt="SPY 1-month hourly chart">
+    <img src="https://finviz.com/chart.ashx?t=SPY&ty=c&ta=1&p=i60&s=l&v=202604251942" alt="SPY 1-month hourly chart">
   </a>
 </p>
 <!--SPY:END-->
