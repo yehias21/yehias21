@@ -21,8 +21,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yehias21&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" alt="Yahia's GitHub stats" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yehias21&exclude_repo=JupyterNotebookRepo&hide=jupyter%20notebook,less,scss&layout=compact&langs_count=8&theme=radical&cache_seconds=1800" alt="Top Langs" height="165">
+  <img src="assets/github-stats.svg" alt="Yahia's GitHub stats" height="165">
+  <img src="assets/top-langs.svg" alt="Most used languages" height="165">
 </p>
 
 ## 🔬 Featured Research
